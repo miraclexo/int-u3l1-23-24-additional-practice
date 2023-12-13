@@ -1,0 +1,90 @@
+@import url('<link href="https://fonts.googleapis.com/css2?family=Koulen&display=swap" rel="stylesheet">');
+
+img {
+    width: 200px;
+}
+
+a {
+    color: limegreen;
+}
+
+html {
+    display: flex;
+    align-items: center;
+}
+
+@import url('<link href="https://fonts.googleapis.com/css2?family=Koulen&display=swap" rel="stylesheet">');
+
+img {
+    width: 200px;
+}
+
+a {
+    color: limegreen;
+}
+
+html {
+    display: flex;
+    align-items: center;
+}
+
+body {
+    width: 100%;
+    margin: 24px;
+    font-family: 'Roboto Mono', monospace;
+    color: lightblue;
+    background-color: black;
+}
+
+.storyOne {
+    border-radius: 0px;
+    background-color: #3f3f3f;
+    padding: 24px;
+    min-height: 200px;
+    border: 8px gray inset;
+}
+
+.storyTwo {
+    border-radius: 0px;
+    background-color: #3f3f3f;
+    padding: 24px;
+    min-height: 200px;
+    border: 8px gray inset;
+}
+
+.first-story {
+    text-align: center;
+    background-color: #4b5669;
+}
+
+.second-story {
+    text-align: center;
+    background-color: #4b5669;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2767d6;
+    color: white;
+    font-size: 20px;
+    font-family: "sans-serif";
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+.storyOne {
+    display: none;
+}
+
+span{
+    background-color:yellow;
+    color:black;
+}
